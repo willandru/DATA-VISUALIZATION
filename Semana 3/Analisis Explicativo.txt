@@ -1,0 +1,36 @@
+QUIÉN ES SU AUDIENCIA
+QUIEN ES USTED PARA SU AUDIENCIA
+
+QUE:
+    QUE QUIERO HACERLES SABER
+
+COMO
+
+
+MODELOS DE DATOS: Hay 2: hay mas: 
+
+    -OLTP
+    -OLAP: online analitycal processing
+
+    erp: toda empresa tienen uno
+    crm: gestion de la relacion con los clientes, gestion de recursoso con el cliente.
+    hr: human resorces
+    POS: puntos de venta
+    lOYALITY CARDS:
+    Online shop:
+    WMS: wherehouse 
+    MRP: mannucfature
+
+    Tablas y relacioines en cualquiera d elos modelos.
+
+    Tablas clasificadaes en 2:
+    Tablas de hechos : Cuantas perosnas hemos atendido, Cuantos hemos vendido (Tabla de ventas)
+
+    HECHOS: Lo que yo wquiero medir
+    DIMENSIONES: Como lo queiro medir
+
+    Cunatos hechos hemos tenido de dicha DIMENSIONES
+
+    En analitica se ha comprobado que es muy conveniente los modelos de estrella, y no las sabanas
+
+
