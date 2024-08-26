@@ -1,0 +1,16 @@
+- Muchas categorias
+- Cajas ancho y largo para llegar al 100%
+
+- Puedeser compleja y desorodenada si se tienen muchas cosas
+-
+
+- Visualizacion de datos de ventas: proporcion de las ventas y del producto.
+- Entevistas , encuestas,
+
+Eje Y: Por producto
+eJE x: Por categoria
+
+
+Categoria: Company
+Eje Series: Caroceria (Body stule)
+Y axis: misma variable
