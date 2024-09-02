@@ -1,0 +1,28 @@
+Diagrama de embudo
+
+______
+ ____
+  __
+   _
+
+Marketing o Ventas
+
+Conocimiento de la campaña
+Interes de la campaña
+Compradore
+
+
+Desventajas: 
+Puede requerir mucho contexto
+Si hay muchas etapas se va a "saturar"
+
+
+* Variable categorica y Variable Numerica
+
+* Variables Numericas
+
+
+Proceso donde tiene etapas, y uno queire ver como las etapas 
+
+Es crucial que existan etapas, de lo contrario no aporta mucha informacion mas alla que un diagrama de barras que es mejor en ese caso.
+
